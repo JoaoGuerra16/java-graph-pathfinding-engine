@@ -1,7 +1,5 @@
 # Java Graph & Pathfinding Engine
 
-*Note: This project was originally developed as a collaborative team project. This repository contains my personal version, focusing on my contributions and architectural presentation.*
-
 ## 📌 Project Overview
 This repository contains a custom Java graph and pathfinding engine. It models a mutable domain as a graph, calculates routes over weighted connections, and exposes the resulting state through a backend API. 
 
